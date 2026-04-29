@@ -3,29 +3,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpeterson27" alt="cpeterson27" /></a> </p>
 
-- 🔭 I’m currently working on [Tripleten projects](https://github.com/cpeterson27)
+- 🔭 I’m currently building and refining full-stack software engineering projects with a focus on real-world applications and clean user experiences. [Engineering projects](https://github.com/cpeterson27)
 
-- 🌱 I’m currently learning **Javascript, DOM, programming**
+- 👯 I’m open to collaborating on web development, UI/UX, and freelance software projects. [outsourcing projects](https://cgdesigns93.wixsite.com/cassandra-peterson)
 
-- 👯 I’m looking to collaborate on [outsourcing projects](https://cgdesigns93.wixsite.com/cassandra-peterson)
+- 🤝 I’m actively seeking opportunities to grow and advance my career as a Software Engineer. **advance my career**
 
-- 🤝 I’m looking to **advance my career**
+- 👨‍💻 You can explore my portfolio and projects here [https://cpeterson27.github.io/portfolio/](https://cpeterson27.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://cgdesigns93.wixsite.com/cassandra-peterson](https://cgdesigns93.wixsite.com/cassandra-peterson)
+- 📝 I share my journey, insights, and career growth on LinkedIn [https://www.linkedin.com/in/cassandrapeterson-software-engineer/](https://www.linkedin.com/in/cassandrapeterson-software-engineer/)
 
-- 📝 I like to post on LinkedIn [https://www.linkedin.com/in/cassandra-peterson-15630b129/](https://www.linkedin.com/in/cassandra-peterson-15630b129/)
+- 💬 Ask me about transitioning into tech, building projects, or becoming a software engineer.**
 
-- 💬 Ask me about **my journey of becoming a software engineer**
+- 📫 Reach me anytime at **cpeterson.dev@gmail.com**
 
-- 📫 How to reach me **cgdesigns93@gmail.com**
+- 📄 View my professional experience and resume here [https://docs.google.com/document/d/1oFoIxjEyENLFWn4UwUUwR0u576AY2rba/edit?usp=sharing&ouid=114226041364977633042&rtpof=true&sd=true](https://docs.google.com/document/d/1oFoIxjEyENLFWn4UwUUwR0u576AY2rba/edit?usp=sharing&ouid=114226041364977633042&rtpof=true&sd=true)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dmKeIgPv0AQ2ESGHfeBTu3bk9QiBll7E/view?usp=sharing](https://drive.google.com/file/d/1dmKeIgPv0AQ2ESGHfeBTu3bk9QiBll7E/view?usp=sharing)
-
-- ⚡ Fun fact **I love basketball**
+- ⚡ Fun fact **I love basketball and played point guard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cassandra-peterson-15630b129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cassandra-peterson-15630b129/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cassandrapeterson-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cassandra-peterson-15630b129/" height="30" width="40" /></a>
 <a href="https://fb.com/cassandra peterson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cassandra peterson" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/cassandrapeterson27/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cassandrapeterson27/?hl=en" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/cassie-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/cassie-web" height="30" width="40" /></a>
