@@ -7,7 +7,7 @@
 
 - 👯 I’m open to collaborating on web development, UI/UX, and freelance software projects. [outsourcing projects](https://cgdesigns93.wixsite.com/cassandra-peterson)
 
-- 🤝 I’m actively seeking opportunities to grow and advance my career as a Software Engineer. **advance my career**
+- 🤝 I’m actively seeking opportunities to grow and advance my career as a Software Engineer.
 
 - 👨‍💻 You can explore my portfolio and projects here [https://cpeterson27.github.io/portfolio/](https://cpeterson27.github.io/portfolio/)
 
