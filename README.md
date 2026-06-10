@@ -17,7 +17,7 @@
 
 - 📫 Reach me anytime at **cpeterson.dev@gmail.com**
 
-- 📄 View my professional experience and resume here [Resume]([https://docs.google.com/document/d/1oFoIxjEyENLFWn4UwUUwR0u576AY2rba/edit?usp=sharing&ouid=114226041364977633042&rtpof=true&sd=true](https://drive.google.com/file/d/1yBCUs6AdgTaUu2ChyOu124QkbiViCdqg/view?usp=sharing))
+- 📄 View my professional experience and resume here [[Resume]([))](https://docs.google.com/document/d/1oFoIxjEyENLFWn4UwUUwR0u576AY2rba/edit?usp=sharing&ouid=114226041364977633042&rtpof=true&sd=true](https://drive.google.com/file/d/1yBCUs6AdgTaUu2ChyOu124QkbiViCdqg/view?usp=sharing)
 
 - ⚡ Fun fact **I love basketball and played point guard**
 
