@@ -1,25 +1,59 @@
 <h1 align="center">Hi 👋, I'm Cassandra Peterson</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpeterson27" alt="cpeterson27" /></a> </p>
+# Hi 👋, I'm Cassandra Peterson
 
-- 🔭 I’m currently building and refining full-stack software engineering projects with a focus on real-world applications and clean user experiences. [Engineering projects](https://github.com/cpeterson27)
+### Full-Stack Software Engineer
 
-- 👯 I’m open to collaborating on web development, UI/UX, and freelance software projects. [outsourcing projects](https://cgdesigns93.wixsite.com/cassandra-peterson)
+I'm a software engineer focused on building modern, scalable web applications that solve real-world problems. I enjoy creating intuitive user experiences, developing robust backend systems, and turning ideas into production-ready products.
 
-- 🤝 I’m actively seeking opportunities to grow and advance my career as a Software Engineer.
+### 🚀 What I'm Working On
 
-- 👨‍💻 You can explore my portfolio and projects here [https://cpeterson27.github.io/portfolio/](https://cpeterson27.github.io/portfolio/)
+* Building and maintaining full-stack applications using React, Node.js, Express, MongoDB, and modern web technologies.
+* Developing SaaS, e-commerce, and data-driven applications with real-world business impact.
+* Expanding my expertise in software architecture, API development, testing, and cloud-based solutions.
 
-- 📝 I share my journey, insights, and career growth on LinkedIn [https://www.linkedin.com/in/cassandrapeterson-software-engineer/](https://www.linkedin.com/in/cassandrapeterson-software-engineer/)
+### 🤝 Open to Collaborate
 
-- 💬 Ask me about transitioning into tech, building projects, or becoming a software engineer.**
+I'm interested in collaborating on:
 
-- 📫 Reach me anytime at **cpeterson.dev@gmail.com**
+* Full-stack web applications
+* React and JavaScript projects
+* Startup and SaaS products
+* Open-source contributions
+* Freelance development opportunities
 
-- 📄 View my professional experience and resume here [[Resume]([))](https://docs.google.com/document/d/1oFoIxjEyENLFWn4UwUUwR0u576AY2rba/edit?usp=sharing&ouid=114226041364977633042&rtpof=true&sd=true](https://drive.google.com/file/d/1yBCUs6AdgTaUu2ChyOu124QkbiViCdqg/view?usp=sharing)
+### 💼 Career Goals
 
-- ⚡ Fun fact **I love basketball and played point guard**
+I'm actively seeking Software Engineer opportunities where I can contribute, continue growing as a developer, and help build impactful products.
+
+### 🌐 Portfolio
+
+Portfolio: https://cpeterson27.github.io/portfolio/
+
+### 🔗 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/cassandrapeterson-software-engineer/
+
+### 💬 Ask Me About
+
+* Full-stack web development
+* React and Node.js
+* Building portfolio projects
+* Career transitions into tech
+* Software engineering bootcamps and learning strategies
+
+### 📫 Contact
+
+Email: [cpeterson.dev@gmail.com](mailto:cpeterson.dev@gmail.com)
+
+### 📄 Resume
+
+Resume: https://drive.google.com/file/d/1yBCUs6AdgTaUu2ChyOu124QkbiViCdqg/view
+
+### ⚡ Fun Fact
+
+I love basketball and played point guard. The teamwork, communication, and leadership skills I developed on the court continue to influence how I approach software development and collaboration.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
