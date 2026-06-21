@@ -51,7 +51,7 @@ Currently, I'm focused on expanding my expertise in software architecture, cloud
 
 * **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
 * **Backend:** Node.js, Express.js, REST APIs
-* **Databases:** MongoDB, MySQL
+* **Databases:** MongoDB, MySQL, Microsoft SQL
 * **Tools:** Git, GitHub, Postman, Docker, Vite, Figma
 * **Integrations:** Stripe, Shippo, Resend, Cloudinary
 
